@@ -1,4 +1,8 @@
-import React from 'react'
+import React from 'react';
+import { ReactDOM } from 'react';
+
+const currentDate = new Date();
+const year = currentDate.getFullYear();
 
 function footer() {
     return (
@@ -91,7 +95,7 @@ function footer() {
             <div className="footer-bottom">
                 <div className="container text-center">
                     <div className="footer-bottom-content">
-                        © 2023 <a href="index.html">PathEd App</a>. Designed and Maintained by{" "}
+                        © {year} <a href="index.html">PathEd App</a>. Designed and Maintained by 
                         <a href="https://peggyroxy.me">Peggy Roxy.</a> All Rights Reserved
                     </div>
                 </div>
