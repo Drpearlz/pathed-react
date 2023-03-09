@@ -24,7 +24,7 @@ function we_provide() {
                             className="single-provide-solutions"
                             style={{
                                 backgroundImage:
-                                    'url("assets/img/techex-landing-page/we-provide-solutopns-bg.png")'
+                                    'url("assets/img/pathed-landing-page/we-provide-solutopns-bg.png")'
                             }}
                         >
                             <div className="number">01</div>
@@ -47,7 +47,7 @@ function we_provide() {
                             className="single-provide-solutions"
                             style={{
                                 backgroundImage:
-                                    'url("assets/img/techex-landing-page/we-provide-solutopns-bg.png")'
+                                    'url("assets/img/pathed-landing-page/we-provide-solutopns-bg.png")'
                             }}
                         >
                             <div className="number">02</div>
@@ -70,7 +70,7 @@ function we_provide() {
                             className="single-provide-solutions"
                             style={{
                                 backgroundImage:
-                                    'url("assets/img/techex-landing-page/we-provide-solutopns-bg.png")'
+                                    'url("assets/img/pathed-landing-page/we-provide-solutopns-bg.png")'
                             }}
                         >
                             <div className="number">03</div>
@@ -93,7 +93,7 @@ function we_provide() {
                             className="single-provide-solutions"
                             style={{
                                 backgroundImage:
-                                    'url("assets/img/techex-landing-page/we-provide-solutopns-bg.png")'
+                                    'url("assets/img/pathed-landing-page/we-provide-solutopns-bg.png")'
                             }}
                         >
                             <div className="number">04</div>

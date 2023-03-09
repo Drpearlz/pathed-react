@@ -2,7 +2,7 @@ import React from 'react'
 
 function testimonial_wrapper() {
     return (
-        <section className="testimonial-wrapper techex-landing-page">
+        <section className="testimonial-wrapper pathed-landing-page">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-8">
@@ -68,7 +68,7 @@ function testimonial_wrapper() {
                     <div className="col-md-4">
                         <div className="testimonial-media" data-aos="fade-left">
                             <img
-                                src="assets/img/techex-landing-page/testimonial-media.png"
+                                src="assets/img/pathed-landing-page/testimonial-media.png"
                                 alt=""
                                 className="img-fluid"
                             />

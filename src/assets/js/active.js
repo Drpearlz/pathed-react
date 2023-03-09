@@ -1,5 +1,5 @@
 /*
-Template: Techex - Information & Technology HTML Template
+Template: pathed - Information & Technology HTML Template
 Author: RRDevs
 */
 

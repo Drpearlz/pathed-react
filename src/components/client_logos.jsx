@@ -2,7 +2,7 @@ import React from 'react'
 
 function client_logos() {
     return (
-        <div className="client-brand-logo-wrap techex-landing-page pt-0">
+        <div className="client-brand-logo-wrap pathed-landing-page pt-0">
             <div className="container">
                 <div className="brand-carousel-active d-flex justify-content-between owl-carousel">
                     <div className="single-client">

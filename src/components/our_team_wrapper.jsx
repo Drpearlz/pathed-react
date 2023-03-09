@@ -2,7 +2,7 @@ import React from 'react'
 
 function our_team_wrapper() {
     return (
-        <section className="our-team-wrapper techex-landing-page">
+        <section className="our-team-wrapper pathed-landing-page">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-12 text-center">
@@ -22,7 +22,7 @@ function our_team_wrapper() {
                             <div
                                 className="member-img bg-cover bg-center"
                                 style={{
-                                    backgroundImage: 'url("assets/img/techex-landing-page/tm1.jpg")'
+                                    backgroundImage: 'url("assets/img/pathed-landing-page/tm1.jpg")'
                                 }}
                             ></div>
                             <div className="member-bio">
@@ -55,7 +55,7 @@ function our_team_wrapper() {
                             <div
                                 className="member-img bg-cover bg-center"
                                 style={{
-                                    backgroundImage: 'url("assets/img/techex-landing-page/tm2.jpg")'
+                                    backgroundImage: 'url("assets/img/pathed-landing-page/tm2.jpg")'
                                 }}
                             ></div>
                             <div className="member-bio">
@@ -88,7 +88,7 @@ function our_team_wrapper() {
                             <div
                                 className="member-img bg-cover bg-center"
                                 style={{
-                                    backgroundImage: 'url("assets/img/techex-landing-page/tm3.jpg")'
+                                    backgroundImage: 'url("assets/img/pathed-landing-page/tm3.jpg")'
                                 }}
                             ></div>
                             <div className="member-bio">
@@ -121,7 +121,7 @@ function our_team_wrapper() {
                             <div
                                 className="member-img bg-cover bg-center"
                                 style={{
-                                    backgroundImage: 'url("assets/img/techex-landing-page/tm4.jpg")'
+                                    backgroundImage: 'url("assets/img/pathed-landing-page/tm4.jpg")'
                                 }}
                             ></div>
                             <div className="member-bio">

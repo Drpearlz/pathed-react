@@ -2,7 +2,7 @@ import React from 'react'
 
 function about_wrapper() {
     return (
-        <section className="about-wrapper techex-landing-page">
+        <section className="about-wrapper pathed-landing-page">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-6">

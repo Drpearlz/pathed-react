@@ -2,7 +2,7 @@ import React from 'react'
 
 function project_case_wrapper() {
     return (
-        <section class="project-case-study-wrapper techex-landing-page">
+        <section class="project-case-study-wrapper pathed-landing-page">
             <div class="container">
                 <div class="project-case-study-wrapper__circle"></div>
 
@@ -60,7 +60,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-4.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-4.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Data Managment</h3>
@@ -74,7 +74,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-1.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-1.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Web Development</h3>
@@ -88,7 +88,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-2.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-2.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Product Engineering</h3>
@@ -102,7 +102,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-3.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-3.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Virtual Reality</h3>
@@ -116,7 +116,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-4.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-4.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Data Managment</h3>
@@ -130,7 +130,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-1.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-1.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Web Development</h3>
@@ -144,7 +144,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-2.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-2.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Product Engineering</h3>
@@ -158,7 +158,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-3.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-3.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Virtual Reality</h3>
@@ -172,7 +172,7 @@ function project_case_wrapper() {
                 </a>
 
                 <a href="#" class="success-item">
-                    <div class="thumb bg-cover" style="background-image: url('assets/img/techex-landing-page/success-item-4.jpg')"></div>
+                    <div class="thumb bg-cover" style="background-image: url('assets/img/pathed-landing-page/success-item-4.jpg')"></div>
                     <div class="content d-flex align-items-center justify-content-between">
                         <div class="text">
                             <h3>Data Managment</h3>

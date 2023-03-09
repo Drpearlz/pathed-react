@@ -2,7 +2,7 @@ import React from 'react'
 
 function blog_sec() {
     return (
-        <section className="blog-section techex-landing-page">
+        <section className="blog-section pathed-landing-page">
             <div className="container">
                 <div className="row">
                     <div className="col-12">

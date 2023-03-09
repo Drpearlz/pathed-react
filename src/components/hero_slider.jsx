@@ -2,9 +2,9 @@ import React from 'react'
 
 const hero_slider = () => {
     return (
-        <section className="hero-slide-wrapper techex-landing-page">
+        <section className="hero-slide-wrapper pathed-landing-page">
             <div className="hero-slider-active-2 owl-carousel owl-theme">
-                <div className="single-slide bg-cover" style={{ backgroundImage: 'url("assets/img/techex-landing-page/hero-bg-1.jpg")' }}>
+                <div className="single-slide bg-cover" style={{ backgroundImage: 'url("assets/img/pathed-landing-page/hero-bg-1.jpg")' }}>
                     <div className="container">
                         <div className="row">
                             <div className="col-12">
@@ -23,7 +23,7 @@ const hero_slider = () => {
                         </div>
                     </div>
                 </div>
-                <div className="single-slide bg-cover" style={{ backgroundImage: 'url("assets/img/techex-landing-page/hero-bg-1.jpg")' }}>
+                <div className="single-slide bg-cover" style={{ backgroundImage: 'url("assets/img/pathed-landing-page/hero-bg-1.jpg")' }}>
                     <div className="container">
                         <div className="row">
                             <div className="col-12">
@@ -42,7 +42,7 @@ const hero_slider = () => {
                         </div>
                     </div>
                 </div>
-                <div className="single-slide bg-cover" style={{ backgroundImage: 'url("assets/img/techex-landing-page/hero-bg-1.jpg")' }}>
+                <div className="single-slide bg-cover" style={{ backgroundImage: 'url("assets/img/pathed-landing-page/hero-bg-1.jpg")' }}>
                     <div className="container">
                         <div className="row">
                             <div className="col-12">

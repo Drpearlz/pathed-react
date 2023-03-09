@@ -2,7 +2,7 @@ import React from 'react'
 
 function our_services() {
     return (
-        <section className="our-service-provide techex-landing-page">
+        <section className="our-service-provide pathed-landing-page">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-12 text-center">
@@ -49,7 +49,7 @@ function our_services() {
                             />
                             <div className="content">
                                 <div className="icon">
-                                    <img src="assets/img/techex-landing-page/sketch.png" alt="" />
+                                    <img src="assets/img/pathed-landing-page/sketch.png" alt="" />
                                 </div>
                                 <h3>
                                     <a href="services-details.html">Web Development</a>
@@ -73,7 +73,7 @@ function our_services() {
                             />
                             <div className="content">
                                 <div className="icon">
-                                    <img src="assets/img/techex-landing-page/diagram.png" alt="" />
+                                    <img src="assets/img/pathed-landing-page/diagram.png" alt="" />
                                 </div>
                                 <h3>
                                     <a href="services-details.html">UX/UI Strategy</a>

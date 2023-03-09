@@ -1,5 +1,5 @@
 /*
-Template: Techex - Information & Technology HTML Template
+Template: pathed - Information & Technology HTML Template
 Author: RRDevs
 Author URI: https://themeforest.net/user/rrdevs
 Description: Information & Technology HTML Template
@@ -7687,7 +7687,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   border-style: inherit;
   border-radius: 0;
   background-repeat: no-repeat;
-  background-image: url(assets/img/techex-landing-page/cta-overly.svg);
+  background-image: url(assets/img/pathed-landing-page/cta-overly.svg);
 }
 .cta-banner.style-3 .container-fluid h1 {
   font-weight: 900;
@@ -10652,39 +10652,39 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   overflow: hidden;
 }
 
-.blog-section.techex-landing-page {
+.blog-section.pathed-landing-page {
   padding: 120px 0;
   background: #FAFAFF;
 }
 @media (max-width: 1199px) {
-  .blog-section.techex-landing-page {
+  .blog-section.pathed-landing-page {
     padding: 100px 0;
   }
 }
 @media (max-width: 991px) {
-  .blog-section.techex-landing-page {
+  .blog-section.pathed-landing-page {
     padding: 90px 0;
   }
 }
 @media (max-width: 767px) {
-  .blog-section.techex-landing-page {
+  .blog-section.pathed-landing-page {
     padding: 80px 0;
   }
 }
 @media (max-width: 575px) {
-  .blog-section.techex-landing-page {
+  .blog-section.pathed-landing-page {
     padding: 70px 0;
   }
 }
 @media (max-width: 480px) {
-  .blog-section.techex-landing-page {
+  .blog-section.pathed-landing-page {
     padding: 50px 0;
   }
 }
-.blog-section.techex-landing-page .container {
+.blog-section.pathed-landing-page .container {
   position: relative;
 }
-.blog-section.techex-landing-page .container:before {
+.blog-section.pathed-landing-page .container:before {
   top: -218px;
   left: -385px;
   width: 519px;
@@ -10692,7 +10692,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   height: 519px;
   position: absolute;
   background: no-repeat;
-  background-image: url("assets/img/techex-landing-page/blog_bg1.png");
+  background-image: url("assets/img/pathed-landing-page/blog_bg1.png");
   -webkit-animation-duration: 3s;
           animation-duration: 3s;
   -webkit-animation-name: scale5;
@@ -10703,55 +10703,55 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
           animation-timing-function: ease-in-out;
 }
 @media (max-width: 1366px) {
-  .blog-section.techex-landing-page .container:before {
+  .blog-section.pathed-landing-page .container:before {
     top: -180px;
     left: -350px;
   }
 }
 @media (max-width: 1199px) {
-  .blog-section.techex-landing-page .container:before {
+  .blog-section.pathed-landing-page .container:before {
     top: -150px;
   }
 }
 @media (max-width: 767px) {
-  .blog-section.techex-landing-page .container:before {
+  .blog-section.pathed-landing-page .container:before {
     top: -100px;
   }
 }
 @media (max-width: 480px) {
-  .blog-section.techex-landing-page .container:before {
+  .blog-section.pathed-landing-page .container:before {
     top: -50px;
   }
 }
 @media (max-width: 1199px) {
-  .blog-section.techex-landing-page .theme-btn-sm {
+  .blog-section.pathed-landing-page .theme-btn-sm {
     margin-bottom: 10px;
   }
 }
 @media (max-width: 991px) {
-  .blog-section.techex-landing-page .theme-btn-sm {
+  .blog-section.pathed-landing-page .theme-btn-sm {
     margin-bottom: 5px;
   }
 }
 @media (max-width: 767px) {
-  .blog-section.techex-landing-page .theme-btn-sm {
+  .blog-section.pathed-landing-page .theme-btn-sm {
     margin-bottom: 0;
   }
 }
-.blog-section.techex-landing-page .section-title {
+.blog-section.pathed-landing-page .section-title {
   margin-bottom: 20px;
 }
 @media (max-width: 991px) {
-  .blog-section.techex-landing-page .section-title {
+  .blog-section.pathed-landing-page .section-title {
     margin-bottom: 10px;
   }
 }
-.blog-section.techex-landing-page .section-title h1 {
+.blog-section.pathed-landing-page .section-title h1 {
   font-weight: 700;
   letter-spacing: -0.03em;
 }
 @media (max-width: 767px) {
-  .blog-section.techex-landing-page .section-title h1 {
+  .blog-section.pathed-landing-page .section-title h1 {
     line-height: 42px;
   }
 }
@@ -10760,34 +10760,34 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   background-color: #FAFAFF;
 }
 
-.our-team-wrapper.techex-landing-page {
+.our-team-wrapper.pathed-landing-page {
   padding: 120px 0;
   position: relative;
 }
 @media (max-width: 1199px) {
-  .our-team-wrapper.techex-landing-page {
+  .our-team-wrapper.pathed-landing-page {
     padding: 100px 0;
   }
 }
 @media (max-width: 991px) {
-  .our-team-wrapper.techex-landing-page {
+  .our-team-wrapper.pathed-landing-page {
     padding: 80px 0;
   }
 }
 @media (max-width: 767px) {
-  .our-team-wrapper.techex-landing-page {
+  .our-team-wrapper.pathed-landing-page {
     padding: 60px 0;
   }
 }
 @media (max-width: 575px) {
-  .our-team-wrapper.techex-landing-page {
+  .our-team-wrapper.pathed-landing-page {
     padding: 50px 0;
   }
 }
-.our-team-wrapper.techex-landing-page .container {
+.our-team-wrapper.pathed-landing-page .container {
   position: relative;
 }
-.our-team-wrapper.techex-landing-page .container:after {
+.our-team-wrapper.pathed-landing-page .container:after {
   top: -180px;
   width: 123px;
   z-index: 1;
@@ -10795,7 +10795,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   right: -250px;
   height: 187px;
   position: absolute;
-  background-image: url(assets/img/techex-landing-page/our-team-bg-dot.png);
+  background-image: url(assets/img/pathed-landing-page/our-team-bg-dot.png);
   -webkit-animation-duration: 3s;
           animation-duration: 3s;
   -webkit-animation-name: movebounce;
@@ -10805,7 +10805,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   -webkit-animation-timing-function: ease-in-out;
           animation-timing-function: ease-in-out;
 }
-.our-team-wrapper.techex-landing-page .container:before {
+.our-team-wrapper.pathed-landing-page .container:before {
   top: 64px;
   left: -57px;
   width: 1192px;
@@ -10813,72 +10813,72 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   height: 701px;
   position: absolute;
   background: no-repeat;
-  background-image: url("assets/img/techex-landing-page/our-team-bg.png");
+  background-image: url("assets/img/pathed-landing-page/our-team-bg.png");
 }
 @media (max-width: 1199px) {
-  .our-team-wrapper.techex-landing-page .theme-btn-sm {
+  .our-team-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 10px;
   }
 }
 @media (max-width: 991px) {
-  .our-team-wrapper.techex-landing-page .theme-btn-sm {
+  .our-team-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 5px;
   }
 }
 @media (max-width: 767px) {
-  .our-team-wrapper.techex-landing-page .theme-btn-sm {
+  .our-team-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 0;
   }
 }
-.our-team-wrapper.techex-landing-page .section-title {
+.our-team-wrapper.pathed-landing-page .section-title {
   max-width: 420px;
   margin: 0 auto 20px;
 }
 @media (max-width: 991px) {
-  .our-team-wrapper.techex-landing-page .section-title {
+  .our-team-wrapper.pathed-landing-page .section-title {
     margin-bottom: 10px;
   }
 }
-.our-team-wrapper.techex-landing-page .section-title h1 {
+.our-team-wrapper.pathed-landing-page .section-title h1 {
   font-weight: 700;
   letter-spacing: -0.03em;
 }
 @media (max-width: 767px) {
-  .our-team-wrapper.techex-landing-page .section-title h1 {
+  .our-team-wrapper.pathed-landing-page .section-title h1 {
     line-height: 42px;
   }
 }
 
-.our-service-provide.techex-landing-page {
+.our-service-provide.pathed-landing-page {
   padding: 120px 0;
   overflow: hidden;
   position: relative;
   background: #FAFAFF;
 }
 @media (max-width: 1199px) {
-  .our-service-provide.techex-landing-page {
+  .our-service-provide.pathed-landing-page {
     padding: 100px 0;
   }
 }
 @media (max-width: 991px) {
-  .our-service-provide.techex-landing-page {
+  .our-service-provide.pathed-landing-page {
     padding: 80px 0;
   }
 }
 @media (max-width: 767px) {
-  .our-service-provide.techex-landing-page {
+  .our-service-provide.pathed-landing-page {
     padding: 60px 0;
   }
 }
 @media (max-width: 575px) {
-  .our-service-provide.techex-landing-page {
+  .our-service-provide.pathed-landing-page {
     padding: 50px 0;
   }
 }
-.our-service-provide.techex-landing-page .container {
+.our-service-provide.pathed-landing-page .container {
   position: relative;
 }
-.our-service-provide.techex-landing-page .container:before {
+.our-service-provide.pathed-landing-page .container:before {
   top: 71px;
   width: 386px;
   content: "";
@@ -10887,7 +10887,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   position: absolute;
   background: no-repeat;
   background-size: cover;
-  background-image: url("assets/img/techex-landing-page/blog_bg1.png");
+  background-image: url("assets/img/pathed-landing-page/blog_bg1.png");
   -webkit-animation-duration: 3s;
           animation-duration: 3s;
   -webkit-animation-name: scale5;
@@ -10898,35 +10898,35 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
           animation-timing-function: ease-in-out;
 }
 @media (max-width: 1199px) {
-  .our-service-provide.techex-landing-page .theme-btn-sm {
+  .our-service-provide.pathed-landing-page .theme-btn-sm {
     margin-bottom: 10px;
   }
 }
 @media (max-width: 991px) {
-  .our-service-provide.techex-landing-page .theme-btn-sm {
+  .our-service-provide.pathed-landing-page .theme-btn-sm {
     margin-bottom: 5px;
   }
 }
 @media (max-width: 767px) {
-  .our-service-provide.techex-landing-page .theme-btn-sm {
+  .our-service-provide.pathed-landing-page .theme-btn-sm {
     margin-bottom: 0;
   }
 }
-.our-service-provide.techex-landing-page .section-title {
+.our-service-provide.pathed-landing-page .section-title {
   max-width: 480px;
   margin: 0 auto 20px;
 }
 @media (max-width: 991px) {
-  .our-service-provide.techex-landing-page .section-title {
+  .our-service-provide.pathed-landing-page .section-title {
     margin-bottom: 10px;
   }
 }
-.our-service-provide.techex-landing-page .section-title h1 {
+.our-service-provide.pathed-landing-page .section-title h1 {
   font-weight: 700;
   letter-spacing: -0.03em;
 }
 @media (max-width: 767px) {
-  .our-service-provide.techex-landing-page .section-title h1 {
+  .our-service-provide.pathed-landing-page .section-title h1 {
     line-height: 42px;
   }
 }
@@ -11081,63 +11081,63 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   margin-left: 10px;
 }
 
-.client-brand-logo-wrap.techex-landing-page {
+.client-brand-logo-wrap.pathed-landing-page {
   padding: 120px 0;
   background: #fafaff;
 }
 @media (max-width: 1199px) {
-  .client-brand-logo-wrap.techex-landing-page {
+  .client-brand-logo-wrap.pathed-landing-page {
     padding: 100px 0;
   }
 }
 @media (max-width: 991px) {
-  .client-brand-logo-wrap.techex-landing-page {
+  .client-brand-logo-wrap.pathed-landing-page {
     padding: 80px 0;
   }
 }
 @media (max-width: 767px) {
-  .client-brand-logo-wrap.techex-landing-page {
+  .client-brand-logo-wrap.pathed-landing-page {
     padding: 60px 0;
   }
 }
 @media (max-width: 575px) {
-  .client-brand-logo-wrap.techex-landing-page {
+  .client-brand-logo-wrap.pathed-landing-page {
     padding: 50px 0;
   }
 }
-.client-brand-logo-wrap.techex-landing-page .brand-carousel-active {
+.client-brand-logo-wrap.pathed-landing-page .brand-carousel-active {
   border: 0;
 }
 
-.project-case-study-wrapper.techex-landing-page {
+.project-case-study-wrapper.pathed-landing-page {
   padding: 120px 0;
   overflow: hidden;
   background: #FAFAFF;
 }
 @media (max-width: 1199px) {
-  .project-case-study-wrapper.techex-landing-page {
+  .project-case-study-wrapper.pathed-landing-page {
     padding: 100px 0;
   }
 }
 @media (max-width: 991px) {
-  .project-case-study-wrapper.techex-landing-page {
+  .project-case-study-wrapper.pathed-landing-page {
     padding: 80px 0;
   }
 }
 @media (max-width: 767px) {
-  .project-case-study-wrapper.techex-landing-page {
+  .project-case-study-wrapper.pathed-landing-page {
     padding: 60px 0;
   }
 }
 @media (max-width: 575px) {
-  .project-case-study-wrapper.techex-landing-page {
+  .project-case-study-wrapper.pathed-landing-page {
     padding: 50px 0;
   }
 }
-.project-case-study-wrapper.techex-landing-page .container {
+.project-case-study-wrapper.pathed-landing-page .container {
   position: relative;
 }
-.project-case-study-wrapper.techex-landing-page .project-case-study-wrapper__circle:after, .project-case-study-wrapper.techex-landing-page .project-case-study-wrapper__circle:before {
+.project-case-study-wrapper.pathed-landing-page .project-case-study-wrapper__circle:after, .project-case-study-wrapper.pathed-landing-page .project-case-study-wrapper__circle:before {
   width: 764px;
   content: "";
   height: 777px;
@@ -11153,49 +11153,49 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   -webkit-animation-timing-function: ease-in-out;
           animation-timing-function: ease-in-out;
 }
-.project-case-study-wrapper.techex-landing-page .project-case-study-wrapper__circle:after {
+.project-case-study-wrapper.pathed-landing-page .project-case-study-wrapper__circle:after {
   left: -671px;
   bottom: -382px;
 }
-.project-case-study-wrapper.techex-landing-page .project-case-study-wrapper__circle:before {
+.project-case-study-wrapper.pathed-landing-page .project-case-study-wrapper__circle:before {
   right: -723px;
   bottom: -777px;
 }
 @media (max-width: 1199px) {
-  .project-case-study-wrapper.techex-landing-page .theme-btn-sm {
+  .project-case-study-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 10px;
   }
 }
 @media (max-width: 991px) {
-  .project-case-study-wrapper.techex-landing-page .theme-btn-sm {
+  .project-case-study-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 5px;
   }
 }
 @media (max-width: 767px) {
-  .project-case-study-wrapper.techex-landing-page .theme-btn-sm {
+  .project-case-study-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 0;
   }
 }
-.project-case-study-wrapper.techex-landing-page .section-title {
+.project-case-study-wrapper.pathed-landing-page .section-title {
   max-width: 716px;
   margin: 0 auto 50px;
 }
 @media (max-width: 991px) {
-  .project-case-study-wrapper.techex-landing-page .section-title {
+  .project-case-study-wrapper.pathed-landing-page .section-title {
     margin-bottom: 40px;
   }
 }
 @media (max-width: 767px) {
-  .project-case-study-wrapper.techex-landing-page .section-title {
+  .project-case-study-wrapper.pathed-landing-page .section-title {
     margin-bottom: 35px;
   }
 }
-.project-case-study-wrapper.techex-landing-page .section-title h1 {
+.project-case-study-wrapper.pathed-landing-page .section-title h1 {
   font-weight: 700;
   letter-spacing: -0.03em;
 }
 @media (max-width: 767px) {
-  .project-case-study-wrapper.techex-landing-page .section-title h1 {
+  .project-case-study-wrapper.pathed-landing-page .section-title h1 {
     line-height: 42px;
   }
 }
@@ -11348,41 +11348,41 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   background: rgba(8, 106, 215, 0.3);
 }
 
-.testimonial-wrapper.techex-landing-page {
+.testimonial-wrapper.pathed-landing-page {
   overflow: hidden;
   padding: 120px 0;
 }
 @media (max-width: 1199px) {
-  .testimonial-wrapper.techex-landing-page {
+  .testimonial-wrapper.pathed-landing-page {
     padding: 100px 0;
   }
 }
 @media (max-width: 991px) {
-  .testimonial-wrapper.techex-landing-page {
+  .testimonial-wrapper.pathed-landing-page {
     padding: 80px 0;
   }
 }
 @media (max-width: 767px) {
-  .testimonial-wrapper.techex-landing-page {
+  .testimonial-wrapper.pathed-landing-page {
     padding: 60px 0;
   }
 }
 @media (max-width: 575px) {
-  .testimonial-wrapper.techex-landing-page {
+  .testimonial-wrapper.pathed-landing-page {
     padding: 50px 0;
   }
 }
-.testimonial-wrapper.techex-landing-page .container {
+.testimonial-wrapper.pathed-landing-page .container {
   position: relative;
 }
-.testimonial-wrapper.techex-landing-page .container:after {
+.testimonial-wrapper.pathed-landing-page .container:after {
   top: 164px;
   width: 123px;
   content: "";
   right: -350px;
   height: 137px;
   position: absolute;
-  background-image: url(assets/img/techex-landing-page/triangle.png);
+  background-image: url(assets/img/pathed-landing-page/triangle.png);
   -webkit-animation-duration: 3s;
           animation-duration: 3s;
   -webkit-animation-name: movebounce;
@@ -11393,49 +11393,49 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
           animation-timing-function: ease-in-out;
 }
 @media (max-width: 1199px) {
-  .testimonial-wrapper.techex-landing-page .theme-btn-sm {
+  .testimonial-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 10px;
   }
 }
 @media (max-width: 991px) {
-  .testimonial-wrapper.techex-landing-page .theme-btn-sm {
+  .testimonial-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 5px;
   }
 }
 @media (max-width: 767px) {
-  .testimonial-wrapper.techex-landing-page .theme-btn-sm {
+  .testimonial-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 0;
   }
 }
-.testimonial-wrapper.techex-landing-page .section-title {
+.testimonial-wrapper.pathed-landing-page .section-title {
   margin-bottom: 40px;
 }
 @media (max-width: 767px) {
-  .testimonial-wrapper.techex-landing-page .section-title {
+  .testimonial-wrapper.pathed-landing-page .section-title {
     margin-bottom: 35px;
   }
 }
-.testimonial-wrapper.techex-landing-page .section-title h1 {
+.testimonial-wrapper.pathed-landing-page .section-title h1 {
   font-weight: 700;
   letter-spacing: -0.03em;
 }
 @media (max-width: 767px) {
-  .testimonial-wrapper.techex-landing-page .section-title h1 {
+  .testimonial-wrapper.pathed-landing-page .section-title h1 {
     line-height: 42px;
   }
 }
-.testimonial-wrapper.techex-landing-page .testimonial-media {
+.testimonial-wrapper.pathed-landing-page .testimonial-media {
   z-index: 1;
   position: relative;
   margin-left: -30px;
   margin-right: -20px;
 }
 @media (max-width: 767px) {
-  .testimonial-wrapper.techex-landing-page .testimonial-media {
+  .testimonial-wrapper.pathed-landing-page .testimonial-media {
     margin: 20px 0 0;
   }
 }
-.testimonial-wrapper.techex-landing-page .testimonial-media:after {
+.testimonial-wrapper.pathed-landing-page .testimonial-media:after {
   top: 44px;
   content: "";
   left: -71px;
@@ -11540,33 +11540,33 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   background: #086ad7;
 }
 
-.about-wrapper.techex-landing-page {
+.about-wrapper.pathed-landing-page {
   padding: 120px 0;
 }
 @media (max-width: 1199px) {
-  .about-wrapper.techex-landing-page {
+  .about-wrapper.pathed-landing-page {
     padding: 100px 0;
   }
 }
 @media (max-width: 991px) {
-  .about-wrapper.techex-landing-page {
+  .about-wrapper.pathed-landing-page {
     padding: 80px 0;
   }
 }
 @media (max-width: 767px) {
-  .about-wrapper.techex-landing-page {
+  .about-wrapper.pathed-landing-page {
     padding: 60px 0;
   }
 }
 @media (max-width: 575px) {
-  .about-wrapper.techex-landing-page {
+  .about-wrapper.pathed-landing-page {
     padding: 50px 0;
   }
 }
-.about-wrapper.techex-landing-page .container {
+.about-wrapper.pathed-landing-page .container {
   position: relative;
 }
-.about-wrapper.techex-landing-page .container:after {
+.about-wrapper.pathed-landing-page .container:after {
   top: -180px;
   width: 123px;
   z-index: 1;
@@ -11574,7 +11574,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   right: -250px;
   height: 187px;
   position: absolute;
-  background-image: url(assets/img/techex-landing-page/our-team-bg-dot.png);
+  background-image: url(assets/img/pathed-landing-page/our-team-bg-dot.png);
   -webkit-animation-duration: 3s;
           animation-duration: 3s;
   -webkit-animation-name: movebounce;
@@ -11584,7 +11584,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   -webkit-animation-timing-function: ease-in-out;
           animation-timing-function: ease-in-out;
 }
-.about-wrapper.techex-landing-page .container:before {
+.about-wrapper.pathed-landing-page .container:before {
   top: -17px;
   z-index: -1;
   content: "";
@@ -11592,7 +11592,7 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   width: 123px;
   height: 135px;
   position: absolute;
-  background-image: url(assets/img/techex-landing-page/our-team-bg-dot.png);
+  background-image: url(assets/img/pathed-landing-page/our-team-bg-dot.png);
   -webkit-animation-delay: 1s;
           animation-delay: 1s;
   -webkit-animation-duration: 3s;
@@ -11605,85 +11605,85 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
           animation-timing-function: ease-in-out;
 }
 @media (max-width: 991px) {
-  .about-wrapper.techex-landing-page .container:before {
+  .about-wrapper.pathed-landing-page .container:before {
     left: 135px;
   }
 }
 @media (max-width: 767px) {
-  .about-wrapper.techex-landing-page .container:before {
+  .about-wrapper.pathed-landing-page .container:before {
     left: 92px;
   }
 }
 @media (max-width: 480px) {
-  .about-wrapper.techex-landing-page .container:before {
+  .about-wrapper.pathed-landing-page .container:before {
     left: 80px;
   }
 }
 @media (max-width: 400px) {
-  .about-wrapper.techex-landing-page .container:before {
+  .about-wrapper.pathed-landing-page .container:before {
     left: 60px;
   }
 }
 @media (max-width: 1199px) {
-  .about-wrapper.techex-landing-page .theme-btn-sm {
+  .about-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 10px;
   }
 }
 @media (max-width: 991px) {
-  .about-wrapper.techex-landing-page .theme-btn-sm {
+  .about-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 5px;
   }
 }
 @media (max-width: 767px) {
-  .about-wrapper.techex-landing-page .theme-btn-sm {
+  .about-wrapper.pathed-landing-page .theme-btn-sm {
     margin-bottom: 0;
   }
 }
-.about-wrapper.techex-landing-page .section-title h1 {
+.about-wrapper.pathed-landing-page .section-title h1 {
   max-width: 460px;
   font-weight: 700;
   margin-bottom: 15px;
   letter-spacing: -0.03em;
 }
 @media (max-width: 767px) {
-  .about-wrapper.techex-landing-page .section-title h1 {
+  .about-wrapper.pathed-landing-page .section-title h1 {
     line-height: 42px;
     margin-bottom: 5px;
   }
 }
-.about-wrapper.techex-landing-page .section-title p {
+.about-wrapper.pathed-landing-page .section-title p {
   font-size: 17px;
   font-weight: 400;
   line-height: 32px;
   color: #696969;
   text-transform: capitalize;
 }
-.about-wrapper.techex-landing-page .section-title .rate-content-grid {
+.about-wrapper.pathed-landing-page .section-title .rate-content-grid {
   gap: 10px;
   margin-top: 20px;
 }
 @media (max-width: 575px) {
-  .about-wrapper.techex-landing-page .section-title .rate-content-grid {
+  .about-wrapper.pathed-landing-page .section-title .rate-content-grid {
     margin-top: 10px;
   }
 }
-.about-wrapper.techex-landing-page .section-title .rate-content-grid .single-rate-item h3 {
+.about-wrapper.pathed-landing-page .section-title .rate-content-grid .single-rate-item h3 {
   font-size: 36px;
   line-height: 46px;
 }
 @media (max-width: 767px) {
-  .about-wrapper.techex-landing-page .section-title .rate-content-grid .single-rate-item h3 {
+  .about-wrapper.pathed-landing-page .section-title .rate-content-grid .single-rate-item h3 {
     font-size: 28px;
     line-height: 38px;
   }
 }
 @media (max-width: 767px) {
-  .about-wrapper.techex-landing-page .section-title .rate-content-grid .single-rate-item p {
+  .about-wrapper.pathed-landing-page .section-title .rate-content-grid .single-rate-item p {
     font-size: 15px;
     line-height: 25px;
   }
 }
-.about-wrapper.techex-landing-page .section-title .theme-btn {
+.about-wrapper.pathed-landing-page .section-title .theme-btn {
   z-index: 1;
   margin-top: 20px;
   overflow: hidden;
@@ -11692,16 +11692,16 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   background: #211e3b;
 }
 @media (max-width: 991px) {
-  .about-wrapper.techex-landing-page .section-title .theme-btn {
+  .about-wrapper.pathed-landing-page .section-title .theme-btn {
     margin: 10px 0 0;
   }
 }
 @media (max-width: 575px) {
-  .about-wrapper.techex-landing-page .section-title .theme-btn {
+  .about-wrapper.pathed-landing-page .section-title .theme-btn {
     margin: 5px 0 0;
   }
 }
-.about-wrapper.techex-landing-page .section-title .theme-btn:before {
+.about-wrapper.pathed-landing-page .section-title .theme-btn:before {
   left: 0;
   width: 0%;
   bottom: 0;
@@ -11714,55 +11714,55 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   transition: all 0.3s ease-in-out;
   background-color: #086ad7;
 }
-.about-wrapper.techex-landing-page .section-title .theme-btn:hover {
+.about-wrapper.pathed-landing-page .section-title .theme-btn:hover {
   background: transparent;
 }
-.about-wrapper.techex-landing-page .section-title .theme-btn:hover:before {
+.about-wrapper.pathed-landing-page .section-title .theme-btn:hover:before {
   width: 100%;
 }
-.about-wrapper.techex-landing-page .about-img {
+.about-wrapper.pathed-landing-page .about-img {
   position: relative;
   margin: 0 15px 0 -175px;
 }
 @media (max-width: 991px) {
-  .about-wrapper.techex-landing-page .about-img {
+  .about-wrapper.pathed-landing-page .about-img {
     margin: 0 0 50px;
   }
 }
-.about-wrapper.techex-landing-page .about-img .video-play-btn {
+.about-wrapper.pathed-landing-page .about-img .video-play-btn {
   right: 160px;
   bottom: 15px;
   position: absolute;
 }
 @media (max-width: 991px) {
-  .about-wrapper.techex-landing-page .about-img .video-play-btn {
+  .about-wrapper.pathed-landing-page .about-img .video-play-btn {
     right: 110px;
     bottom: 10px;
   }
 }
 @media (max-width: 500px) {
-  .about-wrapper.techex-landing-page .about-img .video-play-btn {
+  .about-wrapper.pathed-landing-page .about-img .video-play-btn {
     right: 98px;
   }
 }
 @media (max-width: 450px) {
-  .about-wrapper.techex-landing-page .about-img .video-play-btn {
+  .about-wrapper.pathed-landing-page .about-img .video-play-btn {
     right: 86px;
   }
 }
 @media (max-width: 400px) {
-  .about-wrapper.techex-landing-page .about-img .video-play-btn {
+  .about-wrapper.pathed-landing-page .about-img .video-play-btn {
     right: 70px;
     bottom: 5px;
   }
 }
 @media (max-width: 350px) {
-  .about-wrapper.techex-landing-page .about-img .video-play-btn {
+  .about-wrapper.pathed-landing-page .about-img .video-play-btn {
     right: 60px;
     bottom: 0px;
   }
 }
-.about-wrapper.techex-landing-page .about-img .video-play-btn .popup-video {
+.about-wrapper.pathed-landing-page .about-img .video-play-btn .popup-video {
   width: 75px;
   height: 75px;
   line-height: 78px;
@@ -11771,63 +11771,63 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   background-color: #086ad7;
 }
 @media (max-width: 767px) {
-  .about-wrapper.techex-landing-page .about-img .video-play-btn .popup-video {
+  .about-wrapper.pathed-landing-page .about-img .video-play-btn .popup-video {
     width: 60px;
     height: 60px;
     line-height: 62px;
   }
 }
 @media (max-width: 450px) {
-  .about-wrapper.techex-landing-page .about-img .video-play-btn .popup-video {
+  .about-wrapper.pathed-landing-page .about-img .video-play-btn .popup-video {
     width: 50px;
     height: 50px;
     line-height: 48px;
   }
 }
-.about-wrapper.techex-landing-page .about-img .video-play-btn .popup-video i {
+.about-wrapper.pathed-landing-page .about-img .video-play-btn .popup-video i {
   color: #FFF;
   font-size: 20px;
 }
 @media (max-width: 450px) {
-  .about-wrapper.techex-landing-page .about-img .video-play-btn .popup-video i {
+  .about-wrapper.pathed-landing-page .about-img .video-play-btn .popup-video i {
     font-size: 15px;
   }
 }
 
-.hero-slide-wrapper.techex-landing-page {
+.hero-slide-wrapper.pathed-landing-page {
   position: relative;
 }
-.hero-slide-wrapper.techex-landing-page .single-slide {
+.hero-slide-wrapper.pathed-landing-page .single-slide {
   z-index: 1;
   padding: 202.5px 0;
   position: relative;
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide {
+  .hero-slide-wrapper.pathed-landing-page .single-slide {
     padding: 170px 0;
   }
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide {
+  .hero-slide-wrapper.pathed-landing-page .single-slide {
     padding: 150px 0;
   }
 }
 @media (max-width: 991px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide {
+  .hero-slide-wrapper.pathed-landing-page .single-slide {
     padding: 110px 0;
   }
 }
 @media (max-width: 767px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide {
+  .hero-slide-wrapper.pathed-landing-page .single-slide {
     padding: 90px 0 100px;
   }
 }
 @media (max-width: 575px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide {
+  .hero-slide-wrapper.pathed-landing-page .single-slide {
     padding: 60px 0 80px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .single-slide:after {
+.hero-slide-wrapper.pathed-landing-page .single-slide:after {
   top: 0;
   left: 0;
   z-index: -1;
@@ -11837,21 +11837,21 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   position: absolute;
   background: rgba(21, 7, 137, 0.75);
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents {
   margin: auto;
   max-width: 761px;
 }
 @media (max-width: 991px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents {
     max-width: 580px;
   }
 }
 @media (max-width: 767px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents {
     max-width: 450px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .theme-btn-sm {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .theme-btn-sm {
   font-size: 16px;
   font-weight: 500;
   padding: 8px 18px;
@@ -11859,23 +11859,23 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   margin-bottom: 15px;
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .theme-btn-sm {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .theme-btn-sm {
     margin-bottom: 10px;
   }
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .theme-btn-sm {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .theme-btn-sm {
     margin-bottom: 5px;
   }
 }
 @media (max-width: 575px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .theme-btn-sm {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .theme-btn-sm {
     font-size: 14px;
     line-height: 18px;
     padding: 7px 13px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents h1 {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents h1 {
   color: #F5F5F5;
   font-size: 64px;
   font-weight: 700;
@@ -11884,46 +11884,46 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   letter-spacing: -0.03em;
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents h1 {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents h1 {
     font-size: 55px;
     line-height: 65px;
     margin-bottom: 10px;
   }
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents h1 {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents h1 {
     font-size: 45px;
     line-height: 55px;
     margin-bottom: 5px;
   }
 }
 @media (max-width: 991px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents h1 {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents h1 {
     font-size: 35px;
     line-height: 45px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents p {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents p {
   color: #FFF;
   max-width: 740px;
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper {
   gap: 30px;
   margin-top: 40px;
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper {
     gap: 25px;
     margin-top: 30px;
   }
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper {
     gap: 20px;
     margin-top: 20px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn {
   z-index: 1;
   font-weight: 500;
   overflow: hidden;
@@ -11933,18 +11933,18 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   padding: 19px 27px 19px 30px;
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn {
     padding: 16px 25px;
   }
 }
 @media (max-width: 991px) {
-  .hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn {
+  .hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn {
     font-size: 13px;
     line-height: 13px;
     padding: 14px 22px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:before {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:before {
   left: 0;
   width: 0%;
   bottom: 0;
@@ -11960,40 +11960,40 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   background-color: #000;
   border-radius: 4px;
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:last-child {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:last-child {
   background: transparent;
   border: 1px solid #FFF;
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:last-child:before {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:last-child:before {
   background-color: #FFF;
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:last-child:hover {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:last-child:hover {
   color: #086ad7;
   border-color: #FFF;
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:hover {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:hover {
   border-color: #000;
   background: transparent;
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:hover:before {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn:hover:before {
   opacity: 1;
   width: 100%;
   visibility: visible;
 }
-.hero-slide-wrapper.techex-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn i {
+.hero-slide-wrapper.pathed-landing-page .single-slide .hero-contents .btn__wrapper .theme-btn i {
   font-size: 12px;
 }
-.hero-slide-wrapper.techex-landing-page .owl-nav {
+.hero-slide-wrapper.pathed-landing-page .owl-nav {
   width: 100%;
   position: absolute;
   top: calc(50% - 25px);
 }
 @media (max-width: 575px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav {
     display: none;
   }
 }
-.hero-slide-wrapper.techex-landing-page .owl-nav .owl-prev, .hero-slide-wrapper.techex-landing-page .owl-nav .owl-next {
+.hero-slide-wrapper.pathed-landing-page .owl-nav .owl-prev, .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-next {
   width: 50px;
   height: 50px;
   color: #FFF;
@@ -12008,64 +12008,64 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   border-radius: 500px;
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-prev, .hero-slide-wrapper.techex-landing-page .owl-nav .owl-next {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-prev, .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-next {
     width: 40px;
     height: 40px;
     font-size: 10px;
     line-height: 33px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .owl-nav .owl-prev:hover, .hero-slide-wrapper.techex-landing-page .owl-nav .owl-next:hover {
+.hero-slide-wrapper.pathed-landing-page .owl-nav .owl-prev:hover, .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-next:hover {
   background: #086ad7;
   border-color: #086ad7;
 }
-.hero-slide-wrapper.techex-landing-page .owl-nav .owl-prev {
+.hero-slide-wrapper.pathed-landing-page .owl-nav .owl-prev {
   left: 80px;
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-prev {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-prev {
     left: 50px;
   }
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-prev {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-prev {
     left: 25px;
   }
 }
 @media (max-width: 991px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-prev {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-prev {
     left: 15px;
   }
 }
 @media (max-width: 767px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-prev {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-prev {
     left: 7px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .owl-nav .owl-next {
+.hero-slide-wrapper.pathed-landing-page .owl-nav .owl-next {
   right: 80px;
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-next {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-next {
     right: 50px;
   }
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-next {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-next {
     right: 25px;
   }
 }
 @media (max-width: 991px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-next {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-next {
     right: 15px;
   }
 }
 @media (max-width: 767px) {
-  .hero-slide-wrapper.techex-landing-page .owl-nav .owl-next {
+  .hero-slide-wrapper.pathed-landing-page .owl-nav .owl-next {
     right: 7px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .owl-dots {
+.hero-slide-wrapper.pathed-landing-page .owl-dots {
   width: 100%;
   bottom: 50px;
   position: absolute;
@@ -12073,31 +12073,31 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   margin: -7.5px !important;
 }
 @media (max-width: 1199px) {
-  .hero-slide-wrapper.techex-landing-page .owl-dots {
+  .hero-slide-wrapper.pathed-landing-page .owl-dots {
     bottom: 40px;
   }
 }
 @media (max-width: 991px) {
-  .hero-slide-wrapper.techex-landing-page .owl-dots {
+  .hero-slide-wrapper.pathed-landing-page .owl-dots {
     bottom: 30px;
   }
 }
 @media (max-width: 767px) {
-  .hero-slide-wrapper.techex-landing-page .owl-dots {
+  .hero-slide-wrapper.pathed-landing-page .owl-dots {
     bottom: 20px;
   }
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .owl-dots {
+  .hero-slide-wrapper.pathed-landing-page .owl-dots {
     margin: 30px -5px 0 !important;
   }
 }
 @media (max-width: 991px) {
-  .hero-slide-wrapper.techex-landing-page .owl-dots {
+  .hero-slide-wrapper.pathed-landing-page .owl-dots {
     margin: 20px -3px 0 !important;
   }
 }
-.hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot {
+.hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot {
   width: 15px;
   height: 15px;
   margin: 0px 7.5px;
@@ -12110,25 +12110,25 @@ header.header-5 .main-header-wraper .header-search.show .search-box .form-group:
   transition: all 0.3s ease-in-out;
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot {
+  .hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot {
     margin: 0 5px;
   }
 }
 @media (max-width: 1366px) {
-  .hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot {
+  .hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot {
     margin: 0 3px;
   }
 }
-.hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot span {
+.hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot span {
   background-color: #FFF !important;
 }
-.hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot:hover, .hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot.active {
+.hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot:hover, .hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot.active {
   border-color: #FFF;
 }
-.hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot:hover span, .hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot.active span {
+.hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot:hover span, .hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot.active span {
   background-color: #086ad7 !important;
 }
-.hero-slide-wrapper.techex-landing-page .owl-dots .owl-dot span {
+.hero-slide-wrapper.pathed-landing-page .owl-dots .owl-dot span {
   margin: 0;
   width: 9px;
   height: 9px;
